@@ -1,3 +1,9 @@
+/* Output
+    Enter the number of
+
+    1 1 2 3 5
+   */
+
 import java.util.*;
 
 public class Fibonacci {
