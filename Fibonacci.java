@@ -1,7 +1,8 @@
 /* Output
-    Enter the number of
+    Enter the number of elements you want in Fibonacci series: 10
+    Fibonacci series:
+    0 1 1 2 3 5 8 13 21 34
 
-    1 1 2 3 5
    */
 
 import java.util.*;
